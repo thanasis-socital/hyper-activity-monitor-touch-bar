@@ -1,6 +1,6 @@
 {
   "name": "hyper-activity-monitor-touch-bar",
-  "description": "See your activity in the touch bar",
+  "description": "Add activity metrics (cpu / network / disk / battery) to Macbook's Touch Bar when using Hyper terminal.",
   "version": "0.0.1",
   "main": "index.js",
   "author": "thansis@socital.com <thanasis@socital.com>",
