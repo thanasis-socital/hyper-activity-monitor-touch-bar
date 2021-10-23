@@ -1,7 +1,7 @@
 {
   "name": "hyper-activity-monitor-touch-bar",
   "description": "See your activity in the touch bar",
-  "version": "1.0.10",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "thansis@socital.com <thanasis@socital.com>",
   "license": "MIT",
