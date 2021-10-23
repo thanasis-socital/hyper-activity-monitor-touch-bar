@@ -1,9 +1,9 @@
 {
-  "name": "hyper-custom-touchbar",
-  "description": "Make touchbar useful in Hyper terminal.",
+  "name": "hyper-activity-monitor-touch-bar",
+  "description": "See your activity in the touch bar",
   "version": "1.0.10",
   "main": "index.js",
-  "author": "Swar Shah <me@swarshah.com>",
+  "author": "thansis@socital.com <thanasis@socital.com>",
   "license": "MIT",
   "keywords": [
     "hyper",
@@ -12,8 +12,7 @@
     "hyper.app",
     "hyper-plugin"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SwarShah/hyper-custom-touchbar.git"
+  "dependencies": {
+    "systeminformation": "^5.9.8"
   }
 }
